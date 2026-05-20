@@ -85,6 +85,8 @@ If `Auto Save` is unchecked, the app fills the portal form but does not press Sa
 
 If `Auto Save` is checked, the app fills the form and clicks the portal Save button automatically.
 
+If the portal shows a CAPTCHA, the app will pause after filling the form. Enter the CAPTCHA manually in Chrome, then return to the app and click `OK` to save and continue.
+
 For first use, it is safer to keep `Auto Save` unchecked and test one student record first.
 
 ### Use Picture Magic option
@@ -211,6 +213,8 @@ Student Auto Register ایکسل فائل سے طلبہ کا ڈیٹا پڑھ ک�
 اگر `Auto Save` بند ہو تو ایپ فارم بھر دے گی لیکن Save button نہیں دبائے گی۔ آپ فارم چیک کر کے خود Save کر سکتے ہیں۔
 
 اگر `Auto Save` آن ہو تو ایپ فارم بھر کر portal کا Save button خود دبا دے گی۔
+
+اگر portal پر CAPTCHA نظر آئے تو ایپ فارم بھرنے کے بعد رک جائے گی۔ Chrome میں CAPTCHA خود درج کریں، پھر ایپ میں واپس آ کر `OK` دبائیں تاکہ record save ہو جائے اور اگلی row پر کام شروع ہو۔
 
 پہلی بار استعمال کرتے وقت بہتر ہے کہ `Auto Save` بند رکھیں اور پہلے ایک طالب علم کا ریکارڈ test کریں۔
 
